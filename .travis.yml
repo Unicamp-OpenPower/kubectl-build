@@ -19,4 +19,4 @@ script:
   - make
   - cd _output/local/bin/linux/ppc64le/
   - ls
-  - ./kubectl version
+  - ./kubectl --help
